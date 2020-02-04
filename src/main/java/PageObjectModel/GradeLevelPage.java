@@ -10,6 +10,7 @@ import utulities.Driver;
 import java.util.List;
 
 public class GradeLevelPage extends AbstractClass{
+
     private WebDriver driver;
 
     public GradeLevelPage() {
